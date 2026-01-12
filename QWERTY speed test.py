@@ -4,7 +4,7 @@ print("An alphabet appears, click the alphabet quickly and press enter")
 print("If you be late, time runs out, Remember!")
 import random
 import time
-list=['w','e','r','t','y','u','i','o','p','a','s','d','f','g','h','j','k','l','z','x','c','v','b','n','m']
+list=['q','w','e','r','t','y','u','i','o','p','a','s','d','f','g','h','j','k','l','z','x','c','v','b','n','m']
 a= input ("Press enter to begin")
 q =  random.choice(list)
 print (q)
@@ -36,4 +36,5 @@ print("Close the window and press F5 in the coding window and try again")
     
     
     
+
 
